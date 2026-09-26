@@ -7,9 +7,8 @@ Kho lưu trữ và phân phối các bản cài đặt công khai của nền t�
 ### 📱 Ứng dụng Android (APK)
 
 Tải bản Android mới nhất:
-- **[ShipTuDo-android-0.1.39-v67.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.39-v67.apk)**
-  - **Phiên bản:** `v0.1.39` (versionCode **`67`**)
-  - **Dung lượng:** ~84 MB
+- **[ShipTuDo-android-0.1.39-v68.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.39-v68.apk)**
+  - **Phiên bản:** `v0.1.39` (versionCode **`68`**)
   - **Tính năng nổi bật:**
     - Giao diện tạo đơn vuốt lên thông minh (Bottom drawer: Siêu tốc nền cam, Tiết kiệm nền xanh lá, Đi tỉnh nền xanh dương).
     - Cử chỉ chạm hoặc vuốt xuống toàn màn hình để thu gọn nhanh về danh sách đơn hàng.
