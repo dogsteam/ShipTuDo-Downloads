@@ -1,12 +1,29 @@
-# Ship Tự Do - Tải bản cài đặt Public (APK & Server)
+# Tải bản cài đặt Public (Ship Tự Do & Ăn Nhanh)
 
-Kho lưu trữ và phân phối các bản cài đặt công khai của nền tảng **Ship Tự Do**.
+Kho lưu trữ và phân phối các bản cài đặt công khai của hệ sinh thái **Ship Tự Do** và **Ăn Nhanh**.
 
 ---
 
-### 📱 Ứng dụng Android (APK)
+### 🍜 Ứng dụng Ăn Nhanh (Android APK)
 
-Tải bản Android mới nhất:
+Tải bản Android mới nhất của ứng dụng **Ăn Nhanh**:
+- **[AnNhanh-android-v0.1.0-b1.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/AnNhanh-android-v0.1.0-b1.apk)**
+  - **Phiên bản:** `v0.1.0` (Build `1`)
+  - **Dung lượng:** ~79 MB
+  - **Server kết nối:** `http://103.74.103.77:4000`
+  - **Tính năng nổi bật:**
+    - Khám phá danh sách quán ngon & thực đơn quanh khu phố mà không cần đăng nhập trước.
+    - Đặt món ăn nhanh chóng, theo dõi tiến độ đơn hàng và gọi điện cho quán.
+    - Chế độ dành cho Chủ quán: Quản lý thực đơn, bật/tắt nhận đơn, đổi món ăn, tiếp nhận và chuyển trạng thái đơn.
+    - Hỗ trợ đầy đủ tính năng Xóa tài khoản vĩnh viễn và Chính sách bảo mật theo chuẩn Apple & Google Play.
+
+> *Lưu ý cài đặt:* Nếu điện thoại cảnh báo bảo mật khi cài APK ngoài Google Play, hãy chọn *"Cài đặt ứng dụng từ nguồn không xác định"* hoặc *"Cho phép từ nguồn này"* trên trình duyệt/quản lý tệp rồi mở lại file APK.
+
+---
+
+### 📱 Ứng dụng Ship Tự Do (Android APK)
+
+Tải bản Android mới nhất của **Ship Tự Do**:
 - **[ShipTuDo-android-0.1.46-v81.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.46-v81.apk)**
   - **Phiên bản:** `v0.1.46` (versionCode **`81`**)
   - **Tính năng nổi bật:**
@@ -22,8 +39,6 @@ Tải bản Android mới nhất:
     - Thông báo Flash Toast nổi tự động mờ dần, không chiếm layout danh sách đơn hàng.
     - Thanh tiêu đề trang chủ thu gọn về 1 dòng.
     - Cải tiến chuông báo thông minh cho shipper và shop.
-
-> *Lưu ý cài đặt:* Nếu điện thoại cảnh báo bảo mật khi cài APK ngoài Google Play, hãy chọn *"Cài đặt ứng dụng từ nguồn không xác định"* hoặc *"Cho phép từ nguồn này"* trên trình duyệt/quản lý tệp rồi mở lại file APK.
 
 ---
 
