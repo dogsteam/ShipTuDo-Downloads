@@ -7,8 +7,8 @@ Kho lưu trữ và phân phối các bản cài đặt công khai của hệ sin
 ### 🍜 Ứng dụng Ăn Nhanh (Android APK)
 
 Tải bản Android mới nhất của ứng dụng **Ăn Nhanh**:
-- **[AnNhanh-android-v0.1.0-b1.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/AnNhanh-android-v0.1.0-b1.apk)**
-  - **Phiên bản:** `v0.1.0` (Build `1`)
+- **[AnNhanh-android-v0.1.0-b4.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/AnNhanh-android-v0.1.0-b4.apk)**
+  - **Phiên bản:** `v0.1.0` (Build `4`)
   - **Dung lượng:** ~79 MB
   - **Server kết nối:** `http://103.74.103.77:4000`
   - **Tính năng nổi bật:**
