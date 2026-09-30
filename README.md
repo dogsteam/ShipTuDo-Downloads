@@ -30,7 +30,8 @@ Tải bản Android mới nhất:
 ### 🖥️ Máy chủ Windows Server (EXE)
 
 Tải bản chạy máy chủ Windows VPS:
-- **[ShipTuDoServer-0.1.47-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.47-win-x64.zip)**
-  - **Phiên bản:** `v0.1.47`
+- **[ShipTuDoServer-0.1.48-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.48-win-x64.zip)**
+  - **Phiên bản:** `v0.1.48`
   - **Dung lượng:** ~41 MB (nén từ file thực thi 118 MB)
   - **Cách dùng:** Giải nén gói zip và chạy trực tiếp `ShipTuDoServer.exe` độc lập trên Windows VPS.
+  - **Cập nhật:** Hỗ trợ Data-Only push notification đánh thức Android Native TTS khi màn hình tắt, tự động gọi đúng tên shipper (ví dụ "anh Hiệp ơi"), chuông + thông báo hệ điều hành cho Shop khi đơn giao thành công, tự động fallback APNs Production/Sandbox.
