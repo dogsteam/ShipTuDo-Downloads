@@ -7,8 +7,8 @@ Kho lưu trữ và phân phối các bản cài đặt công khai của nền t�
 ### 📱 Ứng dụng Android (APK)
 
 Tải bản Android mới nhất:
-- **[ShipTuDo-android-0.1.46-v85.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.46-v85.apk)**
-  - **Phiên bản:** `v0.1.46` (versionCode **`85`**)
+- **[ShipTuDo-android-0.1.46-v86.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.46-v86.apk)**
+  - **Phiên bản:** `v0.1.46` (versionCode **`86`**)
   - **Tính năng nổi bật:**
     - Tính năng **Radar Săn Đơn** toàn màn hình: bản đồ quét đơn trực quan, nút [X] đóng map, nút tâm vị trí GPS.
     - Biểu tượng **Hộp Hàng 3D phong cách Game (Loot Box)**:
