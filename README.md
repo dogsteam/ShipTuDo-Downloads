@@ -7,8 +7,8 @@ Kho lưu trữ và phân phối các bản cài đặt công khai của nền t�
 ### 📱 Ứng dụng Android (APK)
 
 Tải bản Android mới nhất:
-- **[ShipTuDo-android-0.1.47-v90.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.47-v90.apk)**
-  - **Phiên bản:** `v0.1.47` (versionCode **`90`**)
+- **[ShipTuDo-android-0.1.49-v91.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.49-v91.apk)**
+  - **Phiên bản:** `v0.1.49` (versionCode **`91`**)
   - **Tính năng nổi bật:**
     - Tính năng **Radar Săn Đơn** toàn màn hình: bản đồ quét đơn trực quan, nút [X] đóng map, nút tâm vị trí GPS.
     - Biểu tượng **Hộp Hàng 3D phong cách Game (Loot Box)**:
@@ -30,8 +30,7 @@ Tải bản Android mới nhất:
 ### 🖥️ Máy chủ Windows Server (EXE)
 
 Tải bản chạy máy chủ Windows VPS:
-- **[ShipTuDoServer-0.1.48-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.48-win-x64.zip)**
-  - **Phiên bản:** `v0.1.48`
+- **[ShipTuDoServer-0.1.49-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.49-win-x64.zip)**
+  - **Phiên bản:** `v0.1.49`
   - **Dung lượng:** ~41 MB (nén từ file thực thi 118 MB)
   - **Cách dùng:** Giải nén gói zip và chạy trực tiếp `ShipTuDoServer.exe` độc lập trên Windows VPS.
-  - **Cập nhật:** Hỗ trợ Data-Only push notification đánh thức Android Native TTS khi màn hình tắt, tự động gọi đúng tên shipper (ví dụ "anh Hiệp ơi"), chuông + thông báo hệ điều hành cho Shop khi đơn giao thành công, tự động fallback APNs Production/Sandbox.
