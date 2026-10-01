@@ -34,3 +34,16 @@ Tải bản chạy máy chủ Windows VPS:
   - **Phiên bản:** `v0.1.53`
   - **Dung lượng:** ~41 MB (nén từ file thực thi 118 MB)
   - **Cách dùng:** Giải nén gói zip và chạy trực tiếp `ShipTuDoServer.exe` độc lập trên Windows VPS.
+
+
+---
+
+### 🚗 Ứng dụng Xe Chung (Xe Ghép & Giao Hàng Thái Nguyên - Hà Nội)
+
+Tải bản Android mới nhất:
+- **[XeChung-android-v0.1.0-b1.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChung-android-v0.1.0-b1.apk)**
+  - **Phiên bản:** `v0.1.0-b1`
+  - **Dịch vụ:** Ghép ghế 150k, Bao xe 4/7 chỗ, Gửi hàng cốp 70k, Sàn cuốc ẩn SĐT & trượt nhận cuốc.
+
+Máy chủ Windows Server (Port 1994):
+- **[XeChungServer-0.1.0-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChungServer-0.1.0-win-x64.zip)**
