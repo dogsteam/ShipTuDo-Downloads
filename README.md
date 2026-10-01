@@ -30,9 +30,9 @@ Tải bản Android mới nhất:
 ### 🖥️ Máy chủ Windows Server (EXE)
 
 Tải bản chạy máy chủ Windows VPS:
-- **[ShipTuDoServer-0.1.53-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.53-win-x64.zip)**
-  - **Phiên bản:** `v0.1.53`
-  - **Dung lượng:** ~41 MB (nén từ file thực thi 118 MB)
+- **[ShipTuDoServer-0.1.54-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.54-win-x64.zip)**
+  - **Phiên bản:** `v0.1.54`
+  - **Dung lượng:** ~43 MB (nén từ file thực thi 118 MB)
   - **Cách dùng:** Giải nén gói zip và chạy trực tiếp `ShipTuDoServer.exe` độc lập trên Windows VPS.
 
 
