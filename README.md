@@ -41,8 +41,8 @@ Tải bản chạy máy chủ Windows VPS:
 ### 🚗 Ứng dụng Xe Chung (Xe Ghép & Giao Hàng Thái Nguyên - Hà Nội)
 
 Tải bản Android mới nhất:
-- **[XeChung-android-v0.1.0-b5.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChung-android-v0.1.0-b5.apk)**
-  - **Phiên bản:** `v0.1.0-b5`
+- **[XeChung-android-v0.1.0-b6.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChung-android-v0.1.0-b6.apk)**
+  - **Phiên bản:** `v0.1.0-b6`
   - **Dịch vụ:** Ghép ghế 150k, Bao xe 4/7 chỗ, Gửi hàng cốp 70k, Sàn cuốc ẩn SĐT & trượt nhận cuốc.
   - **Tính năng mới:** Đăng ký lịch chạy tài xế, tự động khớp khách, kho chuông âm thanh từ server, ví 2 ngăn (Deposit + Thưởng), kịch bản thông báo AI thông minh.
 
