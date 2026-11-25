@@ -7,8 +7,8 @@ Kho lưu trữ và phân phối các bản cài đặt công khai của nền t�
 ### 📱 Ứng dụng Android (APK)
 
 Tải bản Android mới nhất:
-- **[ShipTuDo-android-0.1.53-v95.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.53-v95.apk)**
-  - **Phiên bản:** `v0.1.53` (versionCode **`95`**)
+- **[ShipTuDo-android-0.1.63-v103.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDo-android-0.1.63-v103.apk)**
+  - **Phiên bản:** `v0.1.63` (versionCode **`103`**)
   - **Tính năng nổi bật:**
     - Tính năng **Radar Săn Đơn** toàn màn hình: bản đồ quét đơn trực quan, nút [X] đóng map, nút tâm vị trí GPS.
     - Biểu tượng **Hộp Hàng 3D phong cách Game (Loot Box)**:
@@ -30,22 +30,7 @@ Tải bản Android mới nhất:
 ### 🖥️ Máy chủ Windows Server (EXE)
 
 Tải bản chạy máy chủ Windows VPS:
-- **[ShipTuDoServer-0.1.54-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.54-win-x64.zip)**
-  - **Phiên bản:** `v0.1.54`
-  - **Dung lượng:** ~43 MB (nén từ file thực thi 118 MB)
+- **[ShipTuDoServer-0.1.63-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/ShipTuDoServer-0.1.63-win-x64.zip)**
+  - **Phiên bản:** `v0.1.63`
+  - **Dung lượng:** ~41 MB (nén từ file thực thi 118 MB)
   - **Cách dùng:** Giải nén gói zip và chạy trực tiếp `ShipTuDoServer.exe` độc lập trên Windows VPS.
-
-
----
-
-### 🚗 Ứng dụng Xe Chung (Xe Ghép & Giao Hàng Thái Nguyên - Hà Nội)
-
-Tải bản Android mới nhất:
-- **[XeChung-android-v0.1.1-b31.apk](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChung-android-v0.1.1-b31.apk)**
-  - **Phiên bản:** `v0.1.1-b31`
-  - **Dịch vụ:** Ghép ghế 150k, Bao xe 4/7 chỗ, Gửi hàng cốp 70k, Sàn cuốc ẩn SĐT & trượt nhận cuốc.
-  - **Kiến trúc mới:** Chuẩn Facebook-like Server-Driven UI & Dynamic OTA Container (Native Shell + OTA cập nhật tức thì, bảo mật thuật toán giá, tối ưu 120 FPS cử chỉ SlideToConfirm, TTS giọng nói thông báo cuốc).
-  - **Tính năng nổi bật:** Bản đồ số tương tác (Interactive Map Picker), tìm kiếm địa chỉ thông minh (Goong + OSM), ghim vị trí đón/trả trực quan, đăng ký lịch chạy tài xế, tự động khớp khách, kho chuông âm thanh từ server, ví 2 ngăn (Deposit + Thưởng), kịch bản thông báo AI.
-
-Máy chủ Windows Server (Port 1994):
-- **[XeChungServer-0.1.1-win-x64.zip](https://github.com/dogsteam/ShipTuDo-Downloads/raw/main/XeChungServer-0.1.1-win-x64.zip)**
